@@ -3,7 +3,6 @@ backend:
   repo: jschuler/patternfly-cms #replace with your username/repo
 
 media_folder: static/assets
-public_folder: assets
 
 collections:
   - name: blog
